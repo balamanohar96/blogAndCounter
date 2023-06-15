@@ -1,0 +1,30 @@
+.countPara{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 0;
+    text-decoration: underline;
+}
+.vvv{
+    color: black;
+}
+.first{
+    background-color: aquamarine;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 0;
+}
+.count{
+    color: red;
+    font-size: 30px;
+    
+}
+button{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: white;
+}
